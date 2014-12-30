@@ -4,9 +4,8 @@ ngCordova-IMEI
 ngCordova Wrapper for cordova-plugin-imei feature
 
 
-#Install
-##via bower:
-bower install git://github.com/konstantinkrassmann/ngCordova-IMEI --save-dev
+###Install via bower:
+```bower install git://github.com/konstantinkrassmann/ngCordova-IMEI --save-dev```
 
 #How it works:
 1.Set as dependency of your application
