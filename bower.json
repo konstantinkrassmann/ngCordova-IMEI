@@ -1,0 +1,16 @@
+{
+  "name": "ngCordova-IMEI",
+  "version": "0.0.0",
+  "homepage": "https://github.com/konstantinkrassmann/ngCordova-IMEI",
+  "authors": [
+    "Konstantin Krassmann <kkonstantin@gmx.de>"
+  ],
+  "description": "ngCordova like wrapper for the cordova imei plugin",
+  "main": "imei.js",
+  "keywords": [
+    "angular",
+    "cordova",
+    "ngCordova"
+  ],
+  "license": "MIT"
+}
